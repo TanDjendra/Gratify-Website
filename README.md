@@ -35,7 +35,7 @@ dist/
 
 ## Pemeliharaan
 
-Tautan APK di `dist/index.html` mengarah ke aset rilis resmi Gratify v2.1.0.
+Tautan APK di `dist/index.html` mengarah ke aset rilis resmi Gratify v2.1.5.
 Perbarui tautannya saat rilis aplikasi berubah. Tautan catatan pembaruan
 mengarah ke halaman rilis terbaru GitHub.
 
